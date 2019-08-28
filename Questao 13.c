@@ -1,6 +1,7 @@
 /*
   
-… um ponteiro que aponta para uma funÁ„o, ou seja, uma vari·vel que ir· conter o endereÁo de uma funÁ„o, sendo assim,
-poderemos chamar uma dada funÁ„o simplesmente por meio de ponteiros. Podem ser com argumentos ou n„o.
+√â um ponteiro que aponta para uma fun√ß√£o, ou seja, uma vari√°vel que ir√° conter o endere√ßo de uma fun√ß√£o, sendo assim,
+podemos chamar uma determinada fun√ß√£o simplesmente por meio de ponteiro. Al√©m disso, podemos passar como argumento de 
+uma fun√ß√£o um ponteiro para fun√ß√µes.
   
 */
