@@ -1,4 +1,4 @@
-/* Em alguns problemas de Engenharia, não conseguimos dimensionar as variáveis de entrada de sistemas,
-  além disso requerem uma solução rápida. Sendo assim, o ponteiro é uma ferramenta poderosa nessas situações
-  pois é possível o gerenciamento de memória visando a otimização do tempo de processamento de programas e 
-  a solicitação em tempo de execução a quantidade de memória necessária para as variáveis. */
+/* Em alguns problemas de Engenharia, nÃ£o conseguimos dimensionar as variÃ¡veis de entrada de um sistema,
+  alÃ©m disso precisam de uma soluÃ§Ã£o rÃ¡pida. Sendo assim, o ponteiro Ã© uma ferramenta poderosa nessas situaÃ§Ãµes,
+  pois Ã© possÃ­vel o gerenciamento de memÃ³ria visando a otimizaÃ§Ã£o do tempo de processamento e 
+  a solicitaÃ§Ã£o em tempo de execuÃ§Ã£o a quantidade de memÃ³ria necessÃ¡ria essas variÃ¡veis. */
