@@ -1,4 +1,4 @@
 /*  
-     O primeiro programa imprime na tela os elementos do vetor. O segundo programa imprime na tela os endereços de memória 
-	 de cada posição do vetor.
+     O primeiro programa imprime na tela os elementos do vetor. O segundo programa imprime na tela os endereÃ§os de memÃ³ria 
+     de cada posiÃ§Ã£o do vetor.
 */
