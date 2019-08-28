@@ -36,7 +36,7 @@ void ordem( float *v, int n )
 
     do
     {
-        continua = 0;
+        continua = 0; 
 
         for(j=0; j < final-1; j++)
         {
