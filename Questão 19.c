@@ -55,7 +55,7 @@ int main()
    	
        for(j=0; j<nco; j++){
        	
-         B[i][j] = rand()%10;
+         B[i][j] = rand()%30;
        }
     }
       
