@@ -1,19 +1,19 @@
 /*
   
-aloha[2] = value;  Válido
+aloha[2] = value;  VÃ¡lido
 
-scanf("%f", &aloha); Válido
+scanf("%f", &aloha); VÃ¡lido
 
-aloha = value";  Inválido
+aloha = value";  InvÃ¡lido
 
-printf("%f", aloha);  Válido
+printf("%f", aloha);  VÃ¡lido
 
-coisas[4][4] = aloha[3]; Válido
+coisas[4][4] = aloha[3]; VÃ¡lido
 
-coisas[5] = aloha;  Inválido
+coisas[5] = aloha;  InvÃ¡lido
 
-pf = value; Inválio
+pf = value; InvÃ¡lio
 
-pf = aloha;  Válido
+pf = aloha;  VÃ¡lido
   
-*/
+*/ 
