@@ -1,6 +1,6 @@
 /*  
-     p = mat + 1;  Essa instrução armazena no ponteiro o endereço da segunda posição do vetor.
+     p = mat + 1;  Essa instruÃ§Ã£o armazena no ponteiro o endereÃ§o da segunda posiÃ§Ã£o do vetor.
      
-     x =*(mat)++;  Essa instrução incrementa uma unidade ao valor da primeira posição do vetor. 
+     x =*(mat)++;  Essa instruÃ§Ã£o incrementa uma unidade ao valor da primeira posiÃ§Ã£o do vetor. 
 
-*/
+*/ 
