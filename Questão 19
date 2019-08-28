@@ -35,7 +35,7 @@ int main()
    }
    for(i=0; i<nc; i++){
    	
-       B[i]=(int*) malloc(nco*sizeof(int));
+       B[i]=(int*) malloc(nco*sizeof(int)); 
    }
    for(i=0; i<nl; i++){
    	
