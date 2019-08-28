@@ -32,4 +32,4 @@ int main(){
     for(i=0;i<4;i++){
         printf("x+%d:  %d  \n",i,x3+i);
     }
-}
+} 
