@@ -4,7 +4,7 @@
 
 int main(){
     char x[4];
-    int x1[4];
+    short int x1[4];
     float x2[4];
     double x3[4];
 
@@ -24,7 +24,7 @@ int main(){
     printf("\nc) float: \n");
 
     for(i=0;i<4;i++){
-        printf("x+%d:  %d \n ",i,x2+i);
+        printf("x+%d:  %d \n",i,x2+i);
     }
 
     printf("\nd) double: \n");
