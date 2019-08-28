@@ -60,11 +60,10 @@ int main()
     }
       
    multiplicacao(A,B,C,nl,nc,nco);
+   
    plotmatriz (A,B,C,nl,nc,nco);
    
- 
-
-   for (i=0;i<nl;i++) {
+    for (i=0;i<nl;i++) {
    	
    	   free(A[i]);
    }
