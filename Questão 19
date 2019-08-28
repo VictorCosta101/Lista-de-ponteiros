@@ -110,7 +110,7 @@ void plotmatriz (int **A, int **B, int **C, int nl, int nc, int nco){
    	
        for(j=0; j<nc; j++){
        	
-           printf("%d\t", A[i][j]);
+           printf("%d ", A[i][j]);
        }
        printf("\n");
    }
@@ -121,7 +121,7 @@ void plotmatriz (int **A, int **B, int **C, int nl, int nc, int nco){
    	
        for(j=0; j<nc; j++){
        	
-           printf("%d\t", B[i][j]);
+           printf("%d ", B[i][j]);
        }
        printf("\n");
    }
@@ -132,7 +132,7 @@ void plotmatriz (int **A, int **B, int **C, int nl, int nc, int nco){
    	
        for(j=0; j<nc; j++){
        	
-           printf("%d\t", C[i][j]);
+           printf("%d ", C[i][j]);
        }
        printf("\n");
    }
