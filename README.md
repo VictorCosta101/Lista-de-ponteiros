@@ -1,2 +1,2 @@
-# Lista-de-ponteiros
+# Lista de Ponteiros
 Alunos: Victor Costa ; Kaique Gomes Machado
